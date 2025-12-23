@@ -50,8 +50,8 @@
 
 ### Крок 1. Клонування репозиторію
 ```bash
-git clone https://github.com/YOUR_USERNAME/MathCalculator.git
-cd MathCalculator
+git clone https://github.com/Mr0Beats/Calculator.git
+cd Calculator
 ```
 
 ### Крок 2. Встановлення залежностей
